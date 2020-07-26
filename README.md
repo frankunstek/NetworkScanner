@@ -21,3 +21,9 @@ you entered the ip and name correctly).
 ## Credit where credit is due
 
 I edited the code from [Kalle Halden](https://www.youtube.com/channel/UCWr0mx597DnSGLFk1WfvSkQ) on youtube. The specific video is [here](https://www.youtube.com/watch?v=imN-vhi5ZWQ&t).
+
+I did this to make the code more comprehensible for those who are getting
+started with Python. Even though i made it easy, I would still recommend you
+write the code line by line yourself rather than copy-pasting it right away:)
+
+Have fun
